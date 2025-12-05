@@ -1,0 +1,13 @@
+Channels: (32, 64, 128, 256)
+Best mAP@50: 0.6898
+Best mAP@50-95: 0.2904
+MACs: 7871161344.0
+MACs (M): 7871.161
+Parameters: 15732565
+Model size (MB): 60.01
+Inference time (ms): 14.6200
+FPS: 68.3994
+LR: 0.0005
+Weight decay: 1e-05
+Step size: 8
+Gamma: 0.3
