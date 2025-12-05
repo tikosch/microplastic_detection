@@ -2,15 +2,6 @@
 
 --------------------------------------------------------------------------------
 
-SETTING UP THE PROJECT
--------
-
-Before starting the inference paste folders from drive: https://drive.google.com/drive/folders/1RaGRy-zwqtYEE_VeE_hTn8V12x76jxhN?usp=sharing
-
-dataset_cropped_224x224_newest.zip paste to the folder ./content/dataset_cropped_224x224_newest/
-models.zip paste to the folder ./
-
---------------------------------------------------------------------------------
 
 DATASET
 -------
